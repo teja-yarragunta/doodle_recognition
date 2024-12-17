@@ -22,7 +22,7 @@ Frontend: HTML, CSS, JS with a live canvas for sketch input
 
 1. Clone the Repository
 
-    git clone https://github.com/yourusername/doodle_recognition.git
+    git clone https://github.com/teja-yarragunta/doodle_recognition.git
 
     cd doodle_recognition
   
